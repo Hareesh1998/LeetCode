@@ -1,0 +1,9 @@
+class Solution:
+    def maxAbsoluteSum(self, nums: List[int]) -> int:
+        f_max = g_min = 0
+        ans = 0
+        for num in nums:
+            f_max = max(f_max, 0) + num
+            g_min = min(g_min, 0) + num
+            ans = max(ans, f_max, abs(g_min))
+        return ans
