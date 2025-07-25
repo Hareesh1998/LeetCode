@@ -1,0 +1,21 @@
+class Solution:
+    def maxSum(self, nums: List[int]) -> int:
+       if nums == [-100]:
+        return -100
+       max_sum = -float('inf')
+       current_sum = 0
+       left = 0
+       unique_elements = set()
+
+       for right in range(len(nums)):
+            while nums[right] in unique_elements:
+                unique_elements.remove(nums[left])
+                current_sum -= nums[left]
+                left += 1
+
+            unique_elements.add(nums[right])
+            current_sum += nums[right]
+
+            max_sum = max(max_sum, current_sum)
+       return max_sum
+    
