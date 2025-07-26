@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hareesh1998/LeetCode/tree/master/0011-container-with-most-water) |
+| [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Hareesh1998/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hareesh1998/LeetCode/tree/master/0012-integer-to-roman) |
+| [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -51,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Hareesh1998/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Sorting
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
+## Simulation
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
