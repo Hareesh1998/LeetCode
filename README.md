@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hareesh1998/LeetCode/tree/master/0011-container-with-most-water) |
+| [1813-maximum-erasure-value](https://github.com/Hareesh1998/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hareesh1998/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Hareesh1998/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hareesh1998/LeetCode/tree/master/0012-integer-to-roman) |
+| [1813-maximum-erasure-value](https://github.com/Hareesh1998/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Segment Tree
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hareesh1998/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/Hareesh1998/LeetCode/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
