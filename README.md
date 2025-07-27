@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/Hareesh1998/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Hareesh1998/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Hareesh1998/LeetCode/tree/master/0012-integer-to-roman) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hareesh1998/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hareesh1998/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hareesh1998/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Math
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hareesh1998/LeetCode/tree/master/0011-container-with-most-water) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hareesh1998/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/Hareesh1998/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hareesh1998/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Hareesh1998/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hareesh1998/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hareesh1998/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Stack
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hareesh1998/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hareesh1998/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Hash Function
 |  |
