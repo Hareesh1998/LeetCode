@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hareesh1998/LeetCode/tree/master/0011-container-with-most-water) |
 | [1813-maximum-erasure-value](https://github.com/Hareesh1998/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Hareesh1998/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hareesh1998/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Hareesh1998/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
