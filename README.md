@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hareesh1998/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hareesh1998/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hareesh1998/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3396-valid-word](https://github.com/Hareesh1998/LeetCode/tree/master/3396-valid-word) |
 ## Math
 |  |
 | ------- |
