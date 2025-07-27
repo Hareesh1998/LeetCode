@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Hareesh1998/LeetCode/tree/master/0010-regular-expression-matching) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Hareesh1998/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Hareesh1998/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Hareesh1998/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hareesh1998/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Hareesh1998/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Hareesh1998/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
 |  |
