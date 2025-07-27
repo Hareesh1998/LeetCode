@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/Hareesh1998/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Hareesh1998/LeetCode/tree/master/0012-integer-to-roman) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hareesh1998/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Hareesh1998/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hareesh1998/LeetCode/tree/master/0011-container-with-most-water) |
 | [1813-maximum-erasure-value](https://github.com/Hareesh1998/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Hareesh1998/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Hareesh1998/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hareesh1998/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hareesh1998/LeetCode/tree/master/0012-integer-to-roman) |
 | [1813-maximum-erasure-value](https://github.com/Hareesh1998/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Hareesh1998/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Segment Tree
 |  |
@@ -91,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/Hareesh1998/LeetCode/tree/master/1813-maximum-erasure-value) |
+## Trie
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Hareesh1998/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Hareesh1998/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
