@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Hareesh1998/LeetCode/tree/master/0010-regular-expression-matching) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Hareesh1998/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hareesh1998/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/Hareesh1998/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hareesh1998/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Hareesh1998/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Hareesh1998/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hareesh1998/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Hareesh1998/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Hareesh1998/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
 |  |
